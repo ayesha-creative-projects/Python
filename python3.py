@@ -1,4 +1,4 @@
-"""#python 3: conditions, logical operators, conditional operators, string method
+#python 3: conditions, logical operators, conditional operators, string method
 
 # conditions
 age = int(input("Enter ur age: ")) 
@@ -52,7 +52,7 @@ else:
 if temp < 55 and is_cloudy:
     print("The outdoor event is cancelled")
 else:
-    print("The outdoor event is scheduled")"""
+    print("The outdoor event is scheduled")
 
 # 3
 is_raining = True
@@ -104,6 +104,7 @@ elif not username.isalpha():
 
 else:
     print(f"Welcome {username}")
+
 
 
 
